@@ -33,6 +33,3 @@ Estou aprendendo mais sobre alguns Fremework como REACT E BOOTSTRAP .
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=millerx7-github&show_icons=true&theme=radical)
