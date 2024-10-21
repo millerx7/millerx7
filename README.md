@@ -21,7 +21,7 @@ Sou um desenvolvedor apaixonado por Desenvolvimento WEB. Gosto de criar soluçõ
 
 ## 📫 Como me encontrar
 
-- **LinkedIn**: [@miller.x7](link-do-linkedin)
+- **LinkedIn**: [@miller.x7](www.linkedin.com/in/millerx7)
 - **Instagram**: [@miller.x7](https://instagram.com/miller.x7/)
 - **Email**: [guilhermemiller.dev@gmal.com](guilhermemiller.dev@gmail.com)
 
