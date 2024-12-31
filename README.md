@@ -2,7 +2,7 @@
 
 **`Desenvolvedor front-end`**
 
-Me chamo Guiherme Miller, tenho 16 anos e sou natural de Campina Grande-PB. Concluí o ensino médio no ECI Virginius da Gama e Melo. Atualmente, estou começando na área de Programação Web fazendo curso pela rocketseat. Sou apaixonada por tecnologia e espero ajudar você a tornar seu empreendedorismo mais acessivel. <br> <br> **Meu Instagram:** [Miller.x7](https://www.instagram.com/dev_em_dev/)".
+Me chamo Guiherme Miller, tenho 17 anos e sou natural de Campina Grande-PB. Concluí o ensino médio no ECI Virginius da Gama e Melo. Atualmente, estou começando na área de Programação Web fazendo curso pela B7Web. Sou apaixonada por tecnologia e espero ajudar você a tornar seu empreendedorismo mais acessivel. <br> <br> **Meu Instagram:** [Miller.x7](https://www.instagram.com/dev_em_dev/)".
 
 ---
 
